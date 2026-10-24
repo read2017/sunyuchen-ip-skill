@@ -276,6 +276,23 @@ sunyuchen-ip-skill/
 
 ---
 
+## 支持我
+
+如果这个 skill 帮到了你：
+
+- ⭐ **Star** —— 让更多人看到它
+- **分享** —— 转给一个正在做账号、或者想研究某个人方法论的朋友
+
+### 请我喝杯咖啡
+
+<p align="center">
+  <img src="assets/qr-donate.jpg" width="320" alt="微信赞赏码"/>
+</p>
+
+<p align="center"><sub>微信赞赏码 · 纯打赏，不用于购买服务（合作或咨询请发邮件 read2016@qq.com）</sub></p>
+
+---
+
 ## 关于作者
 
 <p align="center">
@@ -299,14 +316,6 @@ sunyuchen-ip-skill/
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="assets/qr-donate.jpg" width="200" alt="赞赏码"/>
-  <br/>
-  <b>请我喝杯咖啡</b>
-  <br/>
-  <sub>如果这个 skill 帮你省了一下午</sub>
-</p>
 
 <p align="center">
   想做类似的人物 skill、想要全量语料、或者想聊聊 AI 产品：<br/>
