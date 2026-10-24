@@ -279,32 +279,43 @@ sunyuchen-ip-skill/
 ## 关于作者
 
 <p align="center">
-  <b>沉思哲</b>（AI 产品研发）<br/>
-  如果这个 skill 帮你写出了第一条能用的文案，回来告诉我。
+  我是 <b>沉思哲</b>，做 AI 产品与研发，平时折腾 AI 与内容创作。<br/>
+  用法上有问题、想聊 IP、或者想看下一个被蒸馏的人，随时找我。
 </p>
 
 <table align="center">
 <tr>
-<td align="center">
-  <img src="assets/qr-douyin.png" height="300" alt="抖音：沉思哲"/><br/>
-  <b>抖音</b> · 108799524<br/>
-  <sub>沉思哲 ｜ AI产品研发</sub>
+<td align="center" width="50%">
+  <img src="assets/qr-douyin.png" width="250" alt="抖音：沉思哲"/>
+  <br/>
+  <b>抖音</b>：沉思哲 ｜ AI产品研发<br/>
+  <sub>抖音号：108799524</sub>
 </td>
-<td align="center">
-  <img src="assets/qr-xiaohongshu.jpg" height="300" alt="小红书：沉思哲"/><br/>
-  <b>小红书</b> · 26262268555<br/>
-  <sub>沉思哲 ｜ AI产品研发</sub>
+<td align="center" width="50%">
+  <img src="assets/qr-xiaohongshu.jpg" width="250" alt="小红书：沉思哲"/>
+  <br/>
+  <b>小红书</b>：沉思哲 ｜ AI产品研发<br/>
+  <sub>小红书号：26262268555</sub>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <sub>如果这个 skill 帮你省了一下午</sub><br/>
-  <img src="assets/qr-donate.jpg" height="180" alt="赞赏码"/><br/>
+  <img src="assets/qr-donate.jpg" width="200" alt="赞赏码"/>
+  <br/>
   <b>请我喝杯咖啡</b>
+  <br/>
+  <sub>如果这个 skill 帮你省了一下午</sub>
 </p>
 
-<p align="center">📮 read2016@qq.com</p>
+<p align="center">
+  想做类似的人物 skill、想要全量语料、或者想聊聊 AI 产品：<br/>
+  📮 <b>read2016@qq.com</b>
+</p>
+
+<p align="center">
+  <sub>如果这个 skill 帮到你，给个 ⭐ 就行了。</sub>
+</p>
 
 <br>
 
