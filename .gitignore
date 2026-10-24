@@ -1,0 +1,12 @@
+# 构建产物与本地语料
+.build/
+*.pyc
+__pycache__/
+
+# 系统垃圾
+.DS_Store
+
+# 不发布的语料
+corpus/
+transcripts/
+raw/
