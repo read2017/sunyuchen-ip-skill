@@ -286,22 +286,23 @@ sunyuchen-ip-skill/
 <table align="center">
 <tr>
 <td align="center">
-  <img src="assets/qr-douyin.png" height="280" alt="抖音：沉思哲"/><br/>
+  <img src="assets/qr-douyin.png" height="300" alt="抖音：沉思哲"/><br/>
   <b>抖音</b> · 108799524<br/>
   <sub>沉思哲 ｜ AI产品研发</sub>
 </td>
 <td align="center">
-  <img src="assets/qr-xiaohongshu.jpg" height="280" alt="小红书：沉思哲"/><br/>
+  <img src="assets/qr-xiaohongshu.jpg" height="300" alt="小红书：沉思哲"/><br/>
   <b>小红书</b> · 26262268555<br/>
   <sub>沉思哲 ｜ AI产品研发</sub>
 </td>
-<td align="center">
-  <img src="assets/qr-donate.jpg" height="280" alt="赞赏码"/><br/>
-  <b>请我喝杯咖啡</b><br/>
-  <sub>这个 skill 帮你省了一下午的话</sub>
-</td>
 </tr>
 </table>
+
+<p align="center">
+  <sub>如果这个 skill 帮你省了一下午</sub><br/>
+  <img src="assets/qr-donate.jpg" height="180" alt="赞赏码"/><br/>
+  <b>请我喝杯咖啡</b>
+</p>
 
 <p align="center">📮 read2016@qq.com</p>
 
